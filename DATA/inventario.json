@@ -1,0 +1,20 @@
+{
+    "1723": {
+        "id": "1723",
+        "nombre": "celular",
+        "cantidad": 5,
+        "precio": 100.0
+    },
+    "1724": {
+        "id": "1724",
+        "nombre": "bateria varios modelos",
+        "cantidad": 6,
+        "precio": 18.0
+    },
+    "1725": {
+        "id": "1725",
+        "nombre": "estuches",
+        "cantidad": 80,
+        "precio": 0.85
+    }
+}
